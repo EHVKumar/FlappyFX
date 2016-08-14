@@ -1,2 +1,2 @@
-FlappyFX: A game in JavaFX
+FlappyFX: A game in written in JavaFX
 ![alt tag](./FlappyFX.png)
